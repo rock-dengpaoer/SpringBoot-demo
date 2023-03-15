@@ -8,6 +8,7 @@
   <modules>
     <module>demo-hello</module>
     <module>demo-properties</module>
+      <module>demo-actuator</module>
   </modules>
   <packaging>pom</packaging>
 
